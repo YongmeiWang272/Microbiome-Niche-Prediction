@@ -11,7 +11,8 @@ A critical step in my pipeline involved rigorous **data cleaning to eliminate me
 ## 🔬 Key Biological Insights
 By extracting clean genus-level features, the optimized model successfully identified keystone taxa driving ecological niche differentiation. 
 
-![Feature Importance](Feature_Importance.png)
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/ae2c6c6b-1139-4e98-b5f8-35ddbca98aef" />
+
 
 As shown in the feature importance analysis:
 *   **Propionibacterium**: Correctly identified as the top predictive biomarker, perfectly aligning with its role as a key commensal in lipid-rich skin niches.
