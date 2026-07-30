@@ -1,4 +1,3 @@
-# Microbiome-Niche-Prediction
 # Identifying Niche-Specific Microbiome Biomarkers via Random Forest
 
 **Author:** [Yongmei Wang] 
@@ -12,7 +11,7 @@ A critical step in my pipeline involved rigorous **data cleaning to eliminate me
 ## 🔬 Key Biological Insights
 By extracting clean genus-level features, the optimized model successfully identified keystone taxa driving ecological niche differentiation. 
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](Feature_Importance.png)
 
 As shown in the feature importance analysis:
 *   **Propionibacterium**: Correctly identified as the top predictive biomarker, perfectly aligning with its role as a key commensal in lipid-rich skin niches.
