@@ -25,4 +25,4 @@ As shown in the feature importance analysis:
 *   **Techniques:** Feature Engineering, Data Leakage Prevention, Random Forest Classification, Biological Interpretation.
 
 ## 🚀 How to Run
-The complete code and analysis can be viewed in the `[你的Colab文件名].ipynb` notebook included in this repository.
+The complete code and analysis can be viewed in the `Random_Forest_Microbiome.ipynb` notebook included in this repository.
